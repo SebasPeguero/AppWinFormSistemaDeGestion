@@ -9,7 +9,7 @@ namespace PSC10SP
     internal static class Program
     {
       
-        /// Punto de entrada principal para la aplicación.
+        /// Punto de entrada principal para la aplicacion
         
         [STAThread]
         static void Main()
